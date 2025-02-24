@@ -1,0 +1,4 @@
+Tarefa 1- Escreva uma página HTML com um título h1, e abaixo adicione um parágrafo falando sobre você.
+Em seguida adicione um h2  e abaixo uma lista não ordenada com 3 itens sobre suas comidas preferidas. 
+Adicione um h2 com lista numerada de 3 tarefas que você tem para fazer.
+Adicione um h2 e abaixo uma lista ordenada de suas preferências de 3 artistas musicais.
